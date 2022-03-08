@@ -39,3 +39,5 @@ class wordpress::db {
         bindings_enable => true
     }
 }
+
+Now checking for git change sinc to local
