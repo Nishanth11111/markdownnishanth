@@ -39,7 +39,8 @@ class wordpress::db {
         bindings_enable => true
 
  Now checking for git change sinc to local
- this i am editing in branch new    }
+ this i am editing in branch new 
+ jhai   }
 }
 
 
