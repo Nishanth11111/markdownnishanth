@@ -40,7 +40,8 @@ class wordpress::db {
 
  Now checking for git change sinc to local
  this i am editing in branch new  
- i want to push code to vc from git}
+ i want to push code to vc from git
+ }
 }
 
 
