@@ -1,3 +1,3 @@
 # learning git in vs code first checking commit
 
-Now checking the second commit changes
+-Now checking the second commit changes
