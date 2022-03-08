@@ -42,7 +42,8 @@ class wordpress::db {
  this i am editing in branch new  
  i want to push code to vc from git
   the pupprt moduless haii
-  noe checking the merger branches}
+  noe checking the merger branches
+  iam working here}
 }
 
 
