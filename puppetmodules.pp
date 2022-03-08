@@ -37,7 +37,9 @@ class wordpress::db {
     class { '::mysql::client':
         require => Class['::mysql::server'],
         bindings_enable => true
-    }
+
+ Now checking for git change sinc to local    }
 }
 
-Now checking for git change sinc to local
+
+
