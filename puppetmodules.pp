@@ -43,7 +43,7 @@ class wordpress::db {
  i want to push code to vc from git
   the pupprt moduless haii
   noe checking the merger branches
-  iam working here}
+  iam working hererr}
 }
 
 
