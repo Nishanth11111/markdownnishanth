@@ -27,4 +27,7 @@ class wordpress::wp {
         require => Exec['copy'],
         content => template("wordpress/wp-config.php.erb")
     }
+<<<<<<< HEAD
+    this is test for merging branch
+>>>>>>> new-branchh1
 }
