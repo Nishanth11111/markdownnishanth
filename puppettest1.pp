@@ -28,7 +28,11 @@ class wordpress::wp {
         content => template("wordpress/wp-config.php.erb")
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
     this is test for merging branch
 >>>>>>> new-branchh1
 this is the pull test
+=======
+this is test for merging branch,now
+>>>>>> new-branchh1
 }
