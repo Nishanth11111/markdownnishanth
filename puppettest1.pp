@@ -30,4 +30,5 @@ class wordpress::wp {
 <<<<<<< HEAD
     this is test for merging branch
 >>>>>>> new-branchh1
+this is the pull test
 }
